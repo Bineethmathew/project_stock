@@ -1,13 +1,9 @@
-#
-Here's a suggested README.txt file for your project:
+#Purpose
 
-README.txt
-Stock Price Analysis and Prediction Using Neural Networks
 
-Purpose
 This program aims to analyze, visualize, and predict stock prices using advanced machine learning models. It focuses on stock data preprocessing, exploratory data analysis (EDA), and implementing predictive models like Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU). Predictions are made for Tesla (TSLA) and JP Morgan (JPM) stocks.
 
-Methods Used
+#Methods Used
 
 Data Collection
 
@@ -33,7 +29,7 @@ Prediction and Visualization
 
 Generated stock price predictions for the next 30 days for Tesla and JP Morgan.
 Visualized historical vs. predicted prices, highlighting short-term trends.
-Results
+#Results
 
 Tesla shows an upward trend for the next 30 days, beneficial for short-term investors.
 JP Morgan indicates a downward trend, offering opportunities for long-term investments.
